@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,wBACF,CAEA,KACE,iBAAkB,CAClB,YACF","file":"main.ca7da46e.chunk.css","sourcesContent":["body {\n  background-color: rgb(146, 146, 146);\n}\n\n.App {\n  text-align: center;\n  padding: 20px;\n}\n"]}
